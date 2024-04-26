@@ -1,0 +1,10 @@
+.basket-list {
+    max-height: 450px;
+    overflow-y: auto;
+    padding: 2%;
+    border: solid 2px rgb(242, 160, 160);
+}
+
+.total-price {
+    font-size: 20px;
+}

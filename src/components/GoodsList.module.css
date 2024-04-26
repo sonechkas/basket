@@ -1,0 +1,6 @@
+.goods_list {
+    margin: 5% 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Гибкая сетка, автоматически распределяющая карточки */
+    gap: 40px; /* Промежуток между карточками */
+}
